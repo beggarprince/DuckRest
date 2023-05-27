@@ -53,10 +53,9 @@ dependencies {
 
     //javax
     implementation 'javax.annotation:javax.annotation-api:1.3.2'
-
-
     implementation 'com.squareup.retrofit2:adapter-rxjava3:2.9.0' // Replace with the latest RxJava adapter version
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4' // Replace with the latest Kotlin coroutines version
+    implementation 'com.squareup.picasso:picasso:2.71828'
 
 
 }
